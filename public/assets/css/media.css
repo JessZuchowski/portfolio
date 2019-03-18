@@ -196,8 +196,20 @@
     }
 
     #nav ul li a {
-      padding: 0.5em 1.25em 0.5em 1.25em;
+      font-size: 0.8em;
+      padding-top: 0.5em;
+      padding-bottom: 0.5em;
     }
+
+      #nav ul li a span {
+        padding-right: 2.25em;
+      }
+
+        #nav ul li a span:before {
+          left: 100%;
+          margin-left: -1.25em;
+          line-height: 2.25em;
+        }
 
     #headerToggle {
       -moz-backface-visibility: hidden;
