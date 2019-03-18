@@ -12,7 +12,14 @@ section, article {
 
   .row > section, .row > article {
     margin-bottom: 0;
-  }
+	}
+	
+/* Slideshow */
+.slideshow {
+	max-width: 300px;
+	position: relative;
+	margin: auto;
+}
 
 /* Image */
 

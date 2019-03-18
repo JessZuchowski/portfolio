@@ -30,3 +30,6 @@ Start time: 0930
 Finish time: 
 
 Actual time needed to complete: 
+
+Resources: 
+https://www.w3schools.com/howto/howto_js_slideshow.asp for adding a slideshow
