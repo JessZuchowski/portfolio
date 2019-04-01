@@ -18,3 +18,6 @@ Start time: 1050
 Finish time: 1150
 
 Actual time needed to complete: 1 hr *TODO: find banner image and make color changes.
+
+slideshow reference:
+https://www.w3schools.com/howto/howto_js_slideshow.asp
