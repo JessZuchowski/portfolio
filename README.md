@@ -20,6 +20,7 @@ Finish time: 1150
 
 Actual time needed to complete: 1 hr *TODO: find banner image and make color changes.
 
+
 Week 2
 Number and name of feature: Feature #1: Add functionality
 
@@ -33,3 +34,4 @@ Actual time needed to complete:
 
 Resources: 
 https://www.w3schools.com/howto/howto_js_slideshow.asp for adding a slideshow
+
